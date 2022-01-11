@@ -13,7 +13,7 @@ $quotes_list = [
   ],
 
   ['author' => 'Andrei Tarkovsky ',
-  'text' => 'When a tree is growing, it\'s tender and pliant. But when it\'s dry and hard, it dies. [...] \n Pliancy and weakness are expressions of the freshness of being. Because what has hardened will never win.',
+  'text' => 'When a tree is growing, it\'s tender and pliant. But when it\'s dry and hard, it dies. [...] Pliancy and weakness are expressions of the freshness of being. Because what has hardened will never win.',
   'cite' => 'https://www.goodreads.com/quotes/314315-let-everything-that-s-been-planned-come-true-let-them-believe'
   ],
 
