@@ -6,14 +6,23 @@ body {
 
 h1 {
   text-align: center;
+  font-size: 35px;
 }
 
-strong {
-  text-align: right;
+h2 {
+  text-align: left;
 }
+
 
 /* --------------- ID TAGS ---------------*/
 
 #author {
   color: #3e3d3f;
+  text-align: right;
+  font-size: 20px;
+}
+
+#quote {
+  font-size: 25px;
+  font-family: sans-serif;
 }

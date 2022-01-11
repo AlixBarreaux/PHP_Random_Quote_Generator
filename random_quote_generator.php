@@ -9,7 +9,7 @@ $quotes_list = [
   [
     'author' => 'Alix',
     'text' => 'Oh... 01010011 01101111 01110010 01110010 01111001 00100000 01100110 01101111 01110010 00100000 01110100 01101000 01100101 00100000 01100010 01101001 01101110 01100001 01110010 01111001 00100000 01101111 01110101 01110100 01110000 01110101 01110100 00100001',
-    'cite' => '#'
+    'cite' => ''
   ],
 
   ['author' => 'Andrei Tarkovsky ',
@@ -41,7 +41,7 @@ $quotes_list = [
   [
     'author' => ' Sun Tzu, The Art of War ',
     'text' => 'To win one hundred victories in one hundred battles is not the acme of skill. To subdue the enemy without fighting is the acme of skill.',
-    'cite' => 'https://www.goodreads.com/quotes/334175-to-win-one-hundred-victories-in-one-hundred-battles-is'
+    'cite' => 'The art of war: https://www.goodreads.com/quotes/334175-to-win-one-hundred-victories-in-one-hundred-battles-is'
   ]
 ];
 
@@ -50,5 +50,6 @@ $quote = $quotes_list[$rand_quote_index];
 
 $quote_author = $quote['author'];
 $quote_text = $quote['text'];
+$quote_cite_tag_value = '<blockquote cite="' . $quote['cite'] . '"';
 
 ?>
