@@ -50,6 +50,6 @@ $quote = $quotes_list[$rand_quote_index];
 
 $quote_author = $quote['author'];
 $quote_text = $quote['text'];
-$quote_cite_tag_value = '<blockquote cite="' . $quote['cite'] . '"';
+$quote_cite_tag_value = '<blockquote cite="' . $quote['cite'] . '">';
 
 ?>
