@@ -1,0 +1,19 @@
+/* --------------- GENERAL TAGS ---------------*/
+
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  text-align: center;
+}
+
+strong {
+  text-align: right;
+}
+
+/* --------------- ID TAGS ---------------*/
+
+#author {
+  color: #3e3d3f;
+}
