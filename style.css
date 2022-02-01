@@ -2,8 +2,9 @@
 
 
 body {
-  background-color: lightblue;
+  background-color: #18bf9f;
 }
+
 
 h1 {
   font-size: 35px;
@@ -15,13 +16,24 @@ h1 {
 
 
 #author {
-  color: #3e3d3f;
+  color: #d3d4c5;
   font-size: 20px;
   text-align: right;
 }
 
-#quote {
+
+#quote_text {
   font-size: 25px;
   font-family: sans-serif;
   text-align: left;
+}
+
+
+#quote_block {
+  color: #f1f2dc;
+}
+
+
+#rand_quote_gen_title {
+  color: #f3f3f3;
 }
