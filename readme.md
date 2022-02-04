@@ -1,13 +1,18 @@
 # WHAT IS IT?
 
-This is a simple random quote generator written in PHP.
+This simple web application
+This is a training about loops in Rust which is a programming language I'm learning.
 
 
-# HOW TO USE IT?
+
+# HOW TO USE IT
+
+0) Make sure you install Rust (fast to do): `https://www.rust-lang.org/tools/install`
 
 1) Download the project.
 
-2) Put it on your web server.
+2) Open the command prompt and cd into the project.
+EG: `cd /home/yourusername/Downloads/The_Twelve_Days_Of_Christmas`
 
-3) Execute the project in your browser.
-By default, index.php will be executed. If not, do it manually.
+3) Execute the project in the command line:
+`cargo run`
