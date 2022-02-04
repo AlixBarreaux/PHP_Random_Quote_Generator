@@ -1,18 +1,16 @@
 # WHAT IS IT?
 
-This simple web application
-This is a training about loops in Rust which is a programming language I'm learning.
+This simple web application displays a page made in HTML and CSS and generates a Random
+philosophical quote (via PHP) along with its author each time the page is refreshed.
 
 
 
-# HOW TO USE IT
-
-0) Make sure you install Rust (fast to do): `https://www.rust-lang.org/tools/install`
+# HOW TO TAKE A LOOK AT THE SOURCE PROJECT?
 
 1) Download the project.
 
-2) Open the command prompt and cd into the project.
-EG: `cd /home/yourusername/Downloads/The_Twelve_Days_Of_Christmas`
+2) Put it on your web server.
 
-3) Execute the project in the command line:
-`cargo run`
+3) Execute the project in your browser. By default, index.php will be executed. If not, do it manually.
+
+4) Refresh the page to get a new randomly generated content.
